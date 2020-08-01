@@ -1,10 +1,9 @@
-package solution_0278;/* The isBadVersion API is defined in the parent class VersionControl.
+package binarysearch.solution_0278;/* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
 
 /**
  * @Classname Solution1
  * @Description [查询左边界]
- * @Strategy Decrease and Conquer
  * @Algorithm BinarySearch
  * @Url https://leetcode-cn.com/problems/first-bad-version/
  * @Compiler CVBear
@@ -30,7 +29,7 @@ public class Solution1 {
             }
         }
 
-        return l;
+        return l;// 不能返回 r
     }
 
     // 仅仅为了不报错这个不正确

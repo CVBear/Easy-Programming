@@ -1,4 +1,4 @@
-package solution_0034;
+package binarysearch.solution_0034;
 
 /**
  * @Classname Solution

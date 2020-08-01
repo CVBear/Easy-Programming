@@ -1,22 +1,23 @@
-package framework.right;
+package binarysearch.framework.right;
 
 /**
- * @Classname BinarySearch2
+ * @Classname BinarySearch1的[闭区间版]
  * @Description [查询右边界]
+ * 利用[统一东部]的思想
+ * [裁剪]解的部分获得解的下一个位置,left-1则为[最右解],刚好right=left-1
  * @Compiler CVBear
  * @Date 2020/7/29 9:10
  */
 class BinarySearch2 {
 
     /**
-     * 修改自写法1
      * 闭区间版[l,r]
      *
      * @param nums
      * @param target
      * @return
      */
-    private static int indexOfRight(int[] nums, int target) {
+    public int indexOfRight(int[] nums, int target) {
         // 1.[定左右]
         int left = 0;
         int right = nums.length - 1;// 修改①
@@ -27,16 +28,16 @@ class BinarySearch2 {
             int mid = left + (right - left) / 2;
             // 5.[裁剪与收缩]
             if (nums[mid] <= target) {  // 修改③ < 修改为了 <=
-                left = mid + 1;         // [裁剪]后 [mid+1,right)
+                left = mid + 1;// [裁剪]后 [mid+1,right)
             } else {
-                right = mid - 1;        // 边界[收缩]至[left,mid-1]
+                right = mid - 1;// 边界[收缩]至[left,mid-1]
             }
         }
 
         // 2.[检越]
-        if (right < 0 || left > nums.length-1) return -1;
+        if (right < 0 || (left >= nums.length && target != nums[right])) return -1;
 
-        // 6.[返边界] 方便记忆查询哪边返回哪边
-        return right;// 修改④
+        // 6.[返边界]
+        return right;
     }
 }

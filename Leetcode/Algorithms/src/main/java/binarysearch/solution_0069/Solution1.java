@@ -1,9 +1,8 @@
-package solution_0069;
+package binarysearch.solution_0069;
 
 /**
  * @Classname Solution1
- * @Description [写法1]: 修改自基本框架
- * @Strategy Decrease and Conquer
+ * @Description [写法1]: 三分天下
  * @Algorithm BinarySearch
  * @Url https://leetcode-cn.com/problems/sqrtx/
  * @Compiler CVBear

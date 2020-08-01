@@ -1,14 +1,15 @@
 package binarysearch.framework.left;
 
 /**
- * @Classname BinarySearch1
- * @Description [查询左边界]
+ * @Classname BinarySearch2
+ * @Description [查询左边界]闭区间版
+ * 利用[统一东部]的思想,mid及左侧不是解则mid+1,右边界压缩
  * @Compiler CVBear
  * @Date 2020/7/28 23:24
  */
-public class BinarySearch1 {
+public class BinarySearch2 {
 
-    public static int indexOfLeft(int[] nums, int target) {
+    public int indexOfLeft(int[] nums, int target) {
         // 1.[定左右]
         int left = 0;
         int right = nums.length-1;
@@ -17,10 +18,9 @@ public class BinarySearch1 {
         while (left <= right) {//[l,r]
             // 3.[取中值]
             int mid = left + (right - left)/2;
-            // 4.[进退三则]
-            if (target > nums[mid]) left = mid + 1;        // [mid+1,r] 大中则进
-            else if (target < nums[mid]) right = mid - 1;  // [l,mid-1] 小中则退
-            else right = mid -1;                           // [r=mid-1] 等中则退
+            // 4.[裁剪]与收缩
+            if (nums[mid] < target) left = mid + 1;// [裁剪]
+            else right = mid -1;                   // [收缩]
         }
 
         // 5.[检越]

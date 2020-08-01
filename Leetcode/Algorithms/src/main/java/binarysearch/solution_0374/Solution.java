@@ -1,5 +1,14 @@
-package solution_0374;
+package binarysearch.solution_0374;
 
+/**
+ * @Classname Solution2
+ * @Description [基本写法]: 三分天下
+ * @Strategy Decrease and Conquer
+ * @Algorithm BinarySearch
+ * @Url https://leetcode-cn.com/problems/guess-number-higher-or-lower/
+ * @Compiler CVBear
+ * @Date 2020/7/26 19:08
+ */
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
         // 1.[定左右]

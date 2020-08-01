@@ -1,14 +1,14 @@
-package framework.left;
+package binarysearch.framework.left;
 
 /**
  * @Classname BinarySearch1
- * @Description [查询左边界]
+ * @Description [查询左边界]闭区间版
  * @Compiler CVBear
  * @Date 2020/7/28 23:24
  */
 public class BinarySearch1 {
 
-    public static int indexOfLeft(int[] nums, int target) {
+    public int indexOfLeft(int[] nums, int target) {
         // 1.[定左右]
         int left = 0;
         int right = nums.length-1;

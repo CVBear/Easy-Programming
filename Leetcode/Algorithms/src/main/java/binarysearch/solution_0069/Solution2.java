@@ -2,7 +2,7 @@ package binarysearch.solution_0069;
 
 /**
  * @Classname Solution2
- * @Description [写法2]: 一统中西,向右进行边界[收缩]即解区间的[查询右边界]
+ * @Description [写法2]: 统一西部
  * @Strategy Decrease and Conquer
  * @Algorithm BinarySearch
  * @Url https://leetcode-cn.com/problems/sqrtx/
@@ -10,7 +10,7 @@ package binarysearch.solution_0069;
  * @Compiler CVBear
  * @Date 2020/7/28 9:24
  */
-public class Solution3 {
+public class Solution2 {
 
     public static int mySqrt(int x) {
         // 1.[定左右],范围: [0,x]
@@ -27,7 +27,7 @@ public class Solution3 {
 
             // 4.[裁剪与收缩]
             if (midVal > x) {
-                r = mid-1;// [裁剪掉]一定不是解的部分,更新有效区间为[l,mid-1),实际移动[l,mid-1]
+                r = mid-1;// [裁剪]一定不是解的部分,更新有效区间为[l,mid-1),实际移动[l,mid-1]
             } else {
                 l = mid;// [收缩]解存在的[有效区间]更新有效区间为[mid,r)不能[mid-1不然会漏掉[mid]
             }

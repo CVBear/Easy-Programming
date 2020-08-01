@@ -1,13 +1,10 @@
-package solution_0153;
+package binarysearch.solution_0153;
 
 /**
  * @Classname Solution
- * @Description 排除法减治策略
- * 排除[无效区间]①
- * 从[有效区间]②中寻找答案
- * @Strategy Decrease and Conquer
+ * @Description [裁剪] [无效区间] 收缩[有效区间]
  * @Algorithm BinarySearch
- * @Url https://leetcode-cn.com/problems/sqrtx/
+ * @Url https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
  * @Compiler CVBear
  * @Date 2020/7/27 19:08
  */

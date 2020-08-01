@@ -1,4 +1,4 @@
-package framework.basic;
+package binarysearch.framework.basic;
 
 /**
  * @Classname BinarySearch2

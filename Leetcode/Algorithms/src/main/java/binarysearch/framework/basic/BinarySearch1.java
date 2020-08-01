@@ -1,4 +1,4 @@
-package framework.basic;
+package binarysearch.framework.basic;
 
 /**
  * @Classname BinarySearch1
@@ -8,7 +8,7 @@ package framework.basic;
  */
 public class BinarySearch1 {
 
-    public  int indexOf(int[] a, int target) {
+    public int indexOf(int[] a, int target) {
         // 1.[定左右]
         int left = 0;
         int right = a.length -1;

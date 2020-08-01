@@ -1,4 +1,4 @@
-package solution_0034;
+package binarysearch.solution_0034;
 
 /**
  * @Classname Solution
@@ -63,7 +63,6 @@ public class Solution2 {
 
 
     /**
-     * indexOfRight2改进自
      * 左闭右开版[l,r)
      * 技巧点：取右中位因为这种写法取左中位会导致[死循环]永远取不到[右边界]
      * @param nums
