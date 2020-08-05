@@ -6,7 +6,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 
 /**
- * @Classname Solution2
+ * @Classname Solution2.java
  * @Description 迭代[栈辅助]
  * @Algorithm Iteration
  * @Url https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/

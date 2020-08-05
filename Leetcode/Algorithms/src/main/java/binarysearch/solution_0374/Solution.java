@@ -1,7 +1,7 @@
 package binarysearch.solution_0374;
 
 /**
- * @Classname Solution2
+ * @Classname Solution2.java
  * @Description [基本写法]: 三分天下
  * @Strategy Decrease and Conquer
  * @Algorithm BinarySearch

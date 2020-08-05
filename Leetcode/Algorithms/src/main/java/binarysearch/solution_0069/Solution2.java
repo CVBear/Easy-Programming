@@ -1,7 +1,7 @@
 package binarysearch.solution_0069;
 
 /**
- * @Classname Solution2
+ * @Classname Solution2.java
  * @Description [写法2]: 统一西部
  * @Strategy Decrease and Conquer
  * @Algorithm BinarySearch

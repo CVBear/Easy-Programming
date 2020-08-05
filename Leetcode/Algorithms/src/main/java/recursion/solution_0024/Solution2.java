@@ -1,7 +1,7 @@
 package recursion.solution_0024;
 
 /**
- * @Classname Solution2
+ * @Classname Solution2.java
  * @Description 迭代
  * @Algorithm Recursion
  * @Url https://leetcode-cn.com/problems/swap-nodes-in-pairs/

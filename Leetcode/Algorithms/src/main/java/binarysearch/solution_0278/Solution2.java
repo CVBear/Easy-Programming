@@ -2,7 +2,7 @@ package binarysearch.solution_0278;/* The isBadVersion API is defined in the par
       boolean isBadVersion(int version); */
 
 /**
- * @Classname Solution2
+ * @Classname Solution2.java
  * @Description [查询左边界]
  * @Strategy Decrease and Conquer
  * @Algorithm BinarySearch

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @Classname Solution2
+ * @Classname Solution2.java
  * @Description 迭代(自底向上)
  * @Algorithm Iteration
  * @Url https://leetcode-cn.com/problems/pascals-triangle/

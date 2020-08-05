@@ -1,7 +1,7 @@
 package recursion.solution_0050;
 
 /**
- * @Classname Solution2
+ * @Classname Solution2.java
  * @Description [递归]快速幂
  * @Algorithm Recursion
  * @Url https://leetcode-cn.com/problems/powx-n/
