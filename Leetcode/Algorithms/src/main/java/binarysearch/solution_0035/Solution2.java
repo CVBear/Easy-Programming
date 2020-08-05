@@ -1,7 +1,7 @@
 package binarysearch.solution_0035;
 
 /**
- * @Classname Solution
+ * @Classname Solution2
  * @Description [查询左边界]
  * 左边界: 求[第一个]等于或者大于的数的位置
  * @Algorithm BinarySearch

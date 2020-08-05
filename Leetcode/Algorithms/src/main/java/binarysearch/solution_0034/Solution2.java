@@ -1,7 +1,7 @@
 package binarysearch.solution_0034;
 
 /**
- * @Classname Solution
+ * @Classname Solution2
  * @Description [查询左右界]
  * @Algorithm BinarySearch
  * @TimeComplexity O(logn)

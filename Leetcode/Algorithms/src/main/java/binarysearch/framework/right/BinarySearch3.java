@@ -17,7 +17,7 @@ class BinarySearch3 {
      * @param target
      * @return
      */
-    public int indexOfRight111(int[] nums, int target) {
+    public int indexOfRight(int[] nums, int target) {
         // 1.[定左右]
         int left = 0;
         int right = nums.length-1;// 修改①
