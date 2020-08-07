@@ -16,7 +16,9 @@
 
 
 
-## LeetCode[刷题指南]
+## LeetCode[五杀刷题指南]
+
+> 致力于通过解决至少同一类算法的5个问题让你掌握算法套路!
 
 **目的**：通过刷题巩固算法和数据结构，下面为你分门别类，一类一类的去刷题目掌握算法思想，以不变应万变!
 
@@ -48,7 +50,7 @@
 | ----------------------------- | ------------------------------------------------------------ |
 | 蛮力法(Brute-force)           |                                                              |
 | 分治(Divide-and-conquer)      |                                                              |
-| 减治(Decrease-and-conquer)    | [漫话算法[二分查找]：一首诗解决5道LeetCode题](https://mp.weixin.qq.com/s/B_WxYv0U_GI_jGlSwfZhMQ)！ |
+| 减治(Decrease-and-conquer)    | [漫话算法[二分查找]：一首诗解决5道LeetCode题](https://mp.weixin.qq.com/s/dVge_TZyaWvrsFoksEc8lA)！ |
 | 变治(Transform-and-conquer)   |                                                              |
 | 贪(婪)心(Greedy)              |                                                              |
 | 动态规划(Dynamic-programming) |                                                              |
@@ -57,13 +59,13 @@
 
 ### 1.算法问题(Algorithms)
 
-> 我收集整理了
+> 我收集整理了一下几类算法问题一一给你讲解！
 
 | 递归&迭代                                                    | 回溯                                                         | 动态规划                                                     | 贪心                                                         | 分治                                                         | 搜索                                                         | 二分查找                                                     | 排序                                                         | 位运算                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <a href="https://www.bilibili.com/video/BV1Ez4y1Q729?p=2"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/recursion.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="https://www.bilibili.com/video/BV1Ez4y1Q729"><img alt="binarySerach" width="200px" src="./assert/leetcode/leetbook/binarySearch.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> |
 | [视频讲解](https://www.bilibili.com/video/BV1Ez4y1Q729?p=2)  | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | [视频讲解](https://www.bilibili.com/video/BV1Ez4y1Q729)      | 视频讲解                                                     | 视频讲解                                                     |
-| 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     |
+| 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | [图文讲解](https://mp.weixin.qq.com/s/bjIjX5Mf6WEB0IC-cTAiAA) | 图文讲解                                                     | 图文讲解                                                     |
 | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     |
 
 
@@ -90,7 +92,7 @@
 
 | 模板名   | 获取模板                                                | 能解决的问题                                      | 备注                                                         |
 | -------- | ------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-| 二分查找 | [二分查找模板](./Leetcode/doc/template/二分查找模板.md) | 有序数组中的目标元素<br>查询左边界<br/>查询右边界 | <br>[例题解析助你掌握模板的使用](https://mp.weixin.qq.com/s/YqXnVtXP6u-GBGFyqpjDGQ) |
+| 二分查找 | [二分查找模板](./Leetcode/doc/template/二分查找模板.md) | 有序数组中的目标元素<br>查询左边界<br/>查询右边界 | <br>[二分查找五杀例题解析!](https://mp.weixin.qq.com/s/bjIjX5Mf6WEB0IC-cTAiAA) |
 | 递归     | [递归模板](./Leetcode/doc/template/递归模板.md)         |                                                   |                                                              |
 |          |                                                         |                                                   |                                                              |
 
