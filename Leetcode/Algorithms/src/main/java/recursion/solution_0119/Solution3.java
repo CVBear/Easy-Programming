@@ -22,7 +22,7 @@ public class Solution3 {
         // 简单情况 base case
         cur.add(1);
 
-        // 前一层 left 也就是动态的j cur.get(j)
+        // 前一层 left 也就是动态的j-1 cur.get(j-1)
         int pre = 1;
 
         // 迭代
