@@ -6,8 +6,8 @@ import java.util.List;
 
 /**
  * @Classname Solution1
- * @Description 递归(自顶向下)
- * @Algorithm Recursion
+ * @Description 118.杨辉三角
+ * @Algorithm Recursion[递归] 自顶向下
  * @Url https://leetcode-cn.com/problems/pascals-triangle/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

@@ -2,8 +2,8 @@ package recursion.solution_0344;
 
 /**
  * @Classname Solution
- * @Description [尾递归]反转字符串
- * @Algorithm Recursion
+ * @Description 344.反转字符串
+ * @Algorithm Recursion[尾递归]
  * @Url https://leetcode-cn.com/problems/reverse-string/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

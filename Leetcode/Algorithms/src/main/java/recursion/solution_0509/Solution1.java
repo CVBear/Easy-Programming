@@ -2,9 +2,9 @@ package recursion.solution_0509;
 
 /**
  * @Classname Solution1
- * @Description [普通递归]傻递归
- * @Algorithm Recursion
- * @Url
+ * @Description 509.斐波那契数
+ * @Algorithm Recursion[普通递归] 傻递归
+ * @Url https://leetcode-cn.com/problems/fibonacci-number/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13
  */

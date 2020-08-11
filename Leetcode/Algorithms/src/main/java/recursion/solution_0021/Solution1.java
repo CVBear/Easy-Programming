@@ -2,8 +2,8 @@ package recursion.solution_0021;
 
 /**
  * @Classname Solution1
- * @Description 递归
- * @Algorithm Recursion
+ * @Description 21.合并两个有序链表
+ * @Algorithm Recursion[递归]
  * @Url https://leetcode-cn.com/problems/merge-two-sorted-lists/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

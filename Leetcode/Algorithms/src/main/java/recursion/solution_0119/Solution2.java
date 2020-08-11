@@ -5,9 +5,9 @@ import java.util.List;
 
 /**
  * @Classname Solution2.java
- * @Description [递归]不考虑空间优化
- * @Algorithm Recursion
- * @Url [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
+ * @Description 119.杨辉三角 II
+ * @Algorithm Recursion[递归] 不考虑空间优化
+ * @Url https://leetcode-cn.com/problems/pascals-triangle-ii
  * @Compiler CVBear
  * @Date 2020/8/5 9:13
  */

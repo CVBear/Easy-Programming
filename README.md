@@ -63,8 +63,8 @@
 
 | 递归&迭代                                                    | 回溯                                                         | 动态规划                                                     | 贪心                                                         | 分治                                                         | 搜索                                                         | 二分查找                                                     | 排序                                                         | 位运算                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="https://www.bilibili.com/video/BV1Ez4y1Q729?p=2"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/recursion.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="https://www.bilibili.com/video/BV1Ez4y1Q729"><img alt="binarySerach" width="200px" src="./assert/leetcode/leetbook/binarySearch.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> |
-| [视频讲解](https://www.bilibili.com/video/BV1Ez4y1Q729?p=2)  | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | [视频讲解](https://www.bilibili.com/video/BV1Ez4y1Q729)      | 视频讲解                                                     | 视频讲解                                                     |
+| <a href="https://www.bilibili.com/video/BV1Ez4y1Q729?p=2"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/recursion.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/backtracking.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="https://www.bilibili.com/video/BV1Ez4y1Q729"><img alt="binarySerach" width="200px" src="./assert/leetcode/leetbook/binarySearch.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> |
+| [视频讲解](https://www.bilibili.com/video/BV11A411Y7f5)      | [视频讲解](https://www.bilibili.com/video/BV1qK411T7Nx)      | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | [视频讲解](https://www.bilibili.com/video/BV1Ez4y1Q729)      | 视频讲解                                                     | 视频讲解                                                     |
 | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | [图文讲解](https://mp.weixin.qq.com/s/bjIjX5Mf6WEB0IC-cTAiAA) | 图文讲解                                                     | 图文讲解                                                     |
 | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     |
 
@@ -90,11 +90,27 @@
 
 #### Algorithms(子模块)
 
-| 模板名   | 获取模板                                                | 能解决的问题                                      | 备注                                                         |
-| -------- | ------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-| 二分查找 | [二分查找模板](./Leetcode/doc/template/二分查找模板.md) | 有序数组中的目标元素<br>查询左边界<br/>查询右边界 | <br>[二分查找五杀例题解析!](https://mp.weixin.qq.com/s/bjIjX5Mf6WEB0IC-cTAiAA) |
-| 递归     | [递归模板](./Leetcode/doc/template/递归模板.md)         |                                                   |                                                              |
-|          |                                                         |                                                   |                                                              |
+| 模板名   | 获取模板                                            | 能解决的问题                                      | 备注                                                         |
+| -------- | --------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
+| 二分查找 | [二分查找](./Leetcode/doc/template/二分查找模板.md) | 有序数组中的目标元素<br>查询左边界<br/>查询右边界 | <br>[二分查找五杀例题解析!](https://mp.weixin.qq.com/s/bjIjX5Mf6WEB0IC-cTAiAA) |
+| 递归     | [递归模板](./Leetcode/doc/template/递归模板.md)     | 链表的交换<br/>链表合并<br/>二叉树遍历等...       |                                                              |
+| 回溯     | [回溯模板](./Leetcode/doc/template/回溯模板.md)     |                                                   |                                                              |
+
+
+
+## SQL[训练指南]
+
+> 通过各种各样的书籍以及面试题中的sql训练强化sql能力!
+
+
+
+### Mysql
+
+> mysql相关的sql训练
+
+
+
+
 
 
 

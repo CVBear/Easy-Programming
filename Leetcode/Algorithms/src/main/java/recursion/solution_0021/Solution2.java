@@ -2,8 +2,8 @@ package recursion.solution_0021;
 
 /**
  * @Classname Solution2.java
- * @Description [迭代]虚拟头结点的妙用
- * @Algorithm Itreation
+ * @Description 21.合并两个有序链表
+ * @Algorithm Itreation[迭代] 虚拟头结点的妙用
  * @Url https://leetcode-cn.com/problems/merge-two-sorted-lists/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

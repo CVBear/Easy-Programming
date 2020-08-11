@@ -18,7 +18,9 @@ public class Solution2 {
         int [] ans = {-1, -1};
 
         // 2.空判
-        if (nums == null || nums.length == 0) return ans;
+        if (nums == null || nums.length == 0) {
+            return ans;
+        }
 
         // 3.[查询左边界]
         int leftIndex = indexOfLeft(nums, target);

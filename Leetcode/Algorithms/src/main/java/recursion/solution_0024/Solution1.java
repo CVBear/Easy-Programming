@@ -2,8 +2,8 @@ package recursion.solution_0024;
 
 /**
  * @Classname Solution1
- * @Description 递归
- * @Algorithm Recursion
+ * @Description 24.两两交换链表中的节点
+ * @Algorithm Recursion[递归]
  * @Url https://leetcode-cn.com/problems/swap-nodes-in-pairs/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

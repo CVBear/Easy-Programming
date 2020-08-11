@@ -8,8 +8,8 @@ import java.util.Queue;
 
 /**
  * @Classname Solution3
- * @Description 迭代[队列辅助]
- * @Algorithm Iteration BFS
+ * @Description 104.二叉树的最大深度
+ * @Algorithm Iteration[迭代] BFS 队列辅助
  * @Url https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

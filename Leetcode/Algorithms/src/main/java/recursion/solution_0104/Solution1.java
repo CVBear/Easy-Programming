@@ -2,8 +2,8 @@ package recursion.solution_0104;
 
 /**
  * @Classname Solution1
- * @Description 递归
- * @Algorithm DFS
+ * @Description 104.二叉树的最大深度
+ * @Algorithm Recursion[递归] DFS深度优先
  * @Url https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

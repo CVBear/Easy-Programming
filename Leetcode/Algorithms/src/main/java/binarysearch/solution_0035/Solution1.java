@@ -19,7 +19,9 @@ public class Solution1 {
 
     public int searchInsert(int[] nums, int target) {
         // 0.特判
-        if(nums.length == 0) return 0;
+        if(nums.length == 0) {
+            return 0;
+        }
 
         // 1.[定左右]
         int l = 0;

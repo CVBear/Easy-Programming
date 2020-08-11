@@ -7,8 +7,8 @@ import java.util.Deque;
 
 /**
  * @Classname Solution2.java
- * @Description 迭代[栈辅助]
- * @Algorithm Iteration
+ * @Description 104.二叉树的最大深度
+ * @Algorithm Iteration[迭代] 栈辅助
  * @Url https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

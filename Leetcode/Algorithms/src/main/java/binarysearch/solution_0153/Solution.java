@@ -12,7 +12,9 @@ class Solution {
 
     public int findMin(int[] nums) {
         // 0.空判
-        if (nums == null || nums.length == 0) return -1;
+        if (nums == null || nums.length == 0) {
+            return -1;
+        }
 
         // 1.[定左右],范围: [0,x]
         int l = 0;

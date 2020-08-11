@@ -2,8 +2,8 @@ package recursion.solution_0070;
 
 /**
  * @Classname Solution2.java
- * @Description [尾递归]
- * @Algorithm Recursion
+ * @Description 70.爬楼梯
+ * @Algorithm Recursion[尾递归]
  * @Url https://leetcode-cn.com/problems/climbing-stairs/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

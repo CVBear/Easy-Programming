@@ -2,8 +2,8 @@ package recursion.solution_0050;
 
 /**
  * @Classname Solution1
- * @Description [迭代]快速幂
- * @Algorithm Iteration
+ * @Description 50.Pow(x, n)
+ * @Algorithm Iteration[迭代] 快速幂
  * @Url https://leetcode-cn.com/problems/powx-n/
  * @Compiler CVBear
  * @Date 2020/8/5 9:13

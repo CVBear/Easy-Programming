@@ -5,9 +5,9 @@ import java.util.List;
 
 /**
  * @Classname Solution3
- * @Description [倒推]空间优化
- * @Algorithm Iteration
- * @Url [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
+ * @Description 119.杨辉三角 II
+ * @Algorithm Iteration[迭代] 空间优化
+ * @Url https://leetcode-cn.com/problems/pascals-triangle-ii
  * @Compiler CVBear
  * @Date 2020/8/5 9:13
  */
@@ -29,7 +29,7 @@ public class Solution3 {
         for (int i = 1; i <= rowIndex ; i++) {
             for (int j = 1; j < i; j++) {
                 int next_j = cur.get(j);
-                cur.set(j, j_1 + cur.get(j));//f(j) = i-1: f(j-1) + f(j)
+                cur.set(j, j_1 + cur.get(j)); //f(j) = i-1: f(j-1) + f(j)
                 j_1 = next_j;
             }
             // right base case
