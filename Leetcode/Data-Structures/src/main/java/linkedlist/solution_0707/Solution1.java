@@ -2,8 +2,9 @@ package linkedlist.solution_0707;
 
 /**
  * @Classname Solution1
- * @Description [单向链表]
- * @Url [707. 设计链表](https://leetcode-cn.com/problems/pascals-triangle-ii/)
+ * @Description 707.设计链表
+ * @DataStructure 链表[单向链表]
+ * @Url https://leetcode-cn.com/problems/pascals-triangle-ii/
  * @Compiler CVBear
  * @Date 2020/8/9 8:17
  */
