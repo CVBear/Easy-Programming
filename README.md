@@ -2,7 +2,9 @@
 
 通俗易懂的教会你必备基础知识！下面是**模块介绍**，**持续更新中.....**！
 
-<img src="./assert/overview/overview.png" alt="overview " style="zoom:50%;" />
+<img src="https://gitee.com/CVBear/blogimage/raw/master/img/overview.png" style="zoom:50%;" />
+
+
 
 
 
@@ -63,7 +65,7 @@
 
 | 递归&迭代                                                    | 回溯                                                         | 动态规划                                                     | 贪心                                                         | 分治                                                         | 搜索                                                         | 二分查找                                                     | 排序                                                         | 位运算                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <a href="https://www.bilibili.com/video/BV11A411Y7f5"><img alt="recursion" width="200px" src="./assert/leetcode/leetbook/recursion.png" /></a> | <a href="https://www.bilibili.com/video/BV1qK411T7Nx"><img alt="backtracking" width="200px" src="./assert/leetcode/leetbook/backtracking.png" /></a> | <a href="#"><img alt="updating" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="updating" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="updating" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="updating" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="https://www.bilibili.com/video/BV1Ez4y1Q729"><img alt="binarySerach" width="200px" src="./assert/leetcode/leetbook/binarySearch.png" /></a> | <a href="#"><img alt="updating" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> | <a href="#"><img alt="updating" width="200px" src="./assert/leetcode/leetbook/updating.png" /></a> |
+| <a href="https://www.bilibili.com/video/BV11A411Y7f5"><img alt="recursion" width="200px" src="https://gitee.com/CVBear/blogimage/raw/master/img/book-recursion.png" /></a> | <a href="https://www.bilibili.com/video/BV1qK411T7Nx"><img alt="backtracking" width="200px" src="https://gitee.com/CVBear/blogimage/raw/master/img/backtracking.png" /></a> | <a href="#"><img alt="updating" width="200px" src="https://gitee.com/CVBear/blogimage/raw/master/img/updating.png" /></a> | <a href="#"><img alt="updating" width="200px" src="https://gitee.com/CVBear/blogimage/raw/master/img/updating.png" /></a> | <a href="#"><img alt="updating" width="200px" src="https://gitee.com/CVBear/blogimage/raw/master/img/updating.png" /></a> | <a href="#"><img alt="updating" width="200px" src="https://gitee.com/CVBear/blogimage/raw/master/img/updating.png" /></a> | <a href="https://www.bilibili.com/video/BV1Ez4y1Q729"><img alt="binarySerach" width="200px" src="https://gitee.com/CVBear/blogimage/raw/master/img/book-binarySearch.png" /></a> | <a href="#"><img alt="updating" width="200px" src="https://gitee.com/CVBear/blogimage/raw/master/img/updating.png" /></a> | <a href="#"><img alt="updating" width="200px" src="https://gitee.com/CVBear/blogimage/raw/master/img/updating.png" /></a> |
 | [视频讲解](https://www.bilibili.com/video/BV11A411Y7f5)      | [视频讲解](https://www.bilibili.com/video/BV1qK411T7Nx)      | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | 视频讲解                                                     | [视频讲解](https://www.bilibili.com/video/BV1Ez4y1Q729)      | 视频讲解                                                     | 视频讲解                                                     |
 | [图文讲解](https://mp.weixin.qq.com/s/pA_Ao_OvTkKKzSht_ez3eA) | [图文讲解](https://mp.weixin.qq.com/s/Y1-4W-HDyV-PkmKGV0vOmw) | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | 图文讲解                                                     | [图文讲解](https://mp.weixin.qq.com/s/dVge_TZyaWvrsFoksEc8lA) | 图文讲解                                                     | 图文讲解                                                     |
 | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     | 题解汇总                                                     |
@@ -80,13 +82,7 @@
 
 
 
-### 3.题解合集
-
-更新中....
-
-
-
-### 4.算法框架(模板)使用说明
+### 3.算法框架(模板)使用说明
 
 #### Algorithms(子模块)
 
@@ -104,10 +100,6 @@
 
 
 
-### MySQL-即将更新
-
-> MySQL相关的sql训练&sql调优！
 
 
-
-![tail](./assert/overview/about-tail.png)
+![tail](https://gitee.com/CVBear/blogimage/raw/master/img/tail-min.png)
