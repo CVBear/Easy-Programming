@@ -2,7 +2,7 @@
 
 通俗易懂的教会你必备基础知识！下面是**模块介绍**，**持续更新中.....**！
 
-<img src="https://gitee.com/CVBear/blogimage/raw/master/img/overview.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/CVBear/Easy-Programming/master/assert/overview/overview.png" style="zoom:50%;" />
 
 
 
@@ -102,4 +102,4 @@
 
 
 
-![tail](https://gitee.com/CVBear/blogimage/raw/master/img/tail-min.png)
+![tail](https://raw.githubusercontent.com/CVBear/Easy-Programming/master/assert/overview/about-tail.png)
