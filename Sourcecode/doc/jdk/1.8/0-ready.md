@@ -1,6 +1,6 @@
 # JDK源码阅读准备篇
 
-<img alt="jdk" width="1000px" src="../../../img/jdk/1.8/0-ready/0.title.png" />
+![](../../../img/jdk/1.8/0-ready/0.title.png)
 
 无论是刚学Java还是有了一定工作经验，都应该阅读一下源码了，那么今天我们就来看看阅读源码应该准备什么呢？
 
@@ -14,7 +14,9 @@
 
 > 这里我起名为`sourcecode-jdk1.8`
 
-<img alt="jdk" align="left" width="800px" src="../../../img/jdk/1.8/0-ready/0.ready1.png" />
+![](../../../img/jdk/1.8/0-ready/0.ready1.png)
+
+
 
 
 
@@ -24,9 +26,9 @@
 
 > 将`jdk_home`下的`src.zip`解压到新建工程
 
-<img alt="jdk" align="left" width="500px" src="../../../img/jdk/1.8/0-ready/0.ready2.png" />
+<img src="../../../img/jdk/1.8/0-ready/0.ready2.png" style="zoom:50%;" />
 
-<img alt="jdk" align="left" width="800px" src="../../../img/jdk/1.8/0-ready/0.ready3.png" />
+![](../../../img/jdk/1.8/0-ready/0.ready3.png)
 
 
 
@@ -49,13 +51,13 @@
 
 ## 3.替换SDK关联避免影响到原JDK
 
-<img alt="jdk" align="left" width="800px" src="../../../img/jdk/1.8/0-ready/0.ready4.png" />
+![ ](../../../img/jdk/1.8/0-ready/0.ready4.png)
 
 
 
 ## 4.解决系统资源不足导致编译失败
 
-<img alt="jdk" align="left" width="800px" src="../../../img/jdk/1.8/0-ready/0.ready5.png" />
+![](../../../img/jdk/1.8/0-ready/0.ready5.png)
 
 
 
@@ -63,7 +65,7 @@
 
 > 编译启动报错`com.sun.tools.javac.api`不存在
 
-<img alt="jdk" align="left" width="800px" src="../../../img/jdk/1.8/0-ready/0.ready6.png" />
+![](../../../img/jdk/1.8/0-ready/0.ready6.png)
 
 
 
@@ -79,7 +81,9 @@
 
 [FontConfigManager](http://hg.openjdk.java.net/jdk8u/jdk8u/jdk/file/c0dd958bb895/src/solaris/classes/sun/font/FontConfigManager.java)
 
-<img alt="jdk" align="left" width="500px" src="../../../img/jdk/1.8/0-ready/0.ready7.png" />
+![](../../../img/jdk/1.8/0-ready/0.ready7.png)
+
+
 
 
 
@@ -87,7 +91,7 @@
 
 > 源码调试的时候断点进入不了我们解压的源码文件中可以通过以下方式解决
 
-<img alt="jdk" align="left" width="800px" src="../../../img/jdk/1.8/0-ready/0.ready8.png" />
+![](../../../img/jdk/1.8/0-ready/0.ready8.png)
 
 
 
